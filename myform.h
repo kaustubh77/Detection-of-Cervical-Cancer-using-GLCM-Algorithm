@@ -20,13 +20,13 @@ namespace Project16 {
  public ref class MyForm : public System::Windows::Forms::Form
  {
  public:
-  MyForm(void)
-  {
-   InitializeComponent();
-   //
-   //TODO: Add the constructor code here
-   //
-  }
+    MyForm(void)
+    {
+       InitializeComponent();
+       //
+       //TODO: Add the constructor code here
+       //
+    }
  protected:
   /// <summary>
   /// Clean up any resources being used.
